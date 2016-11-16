@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 75af5aeea2f8a904da56a24255f3ec2d
+timeCreated: 1477588385
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - textureAtlasMaterial: {instanceID: 0}
+  - chunkprefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
